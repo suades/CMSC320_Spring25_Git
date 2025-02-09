@@ -7,3 +7,6 @@ Answer: It can be used in sports to analyze the attributes of certain players or
 Q3: What is the difference between Merging and Rebasing?
 
 Answer: Merging combines two branches by creating a new merge commit that preserves the history of both branches. However, rebasing will just copy over the commits from one of the branches, so it's like overriding it.
+Q4: What are you looking forward to this semester?
+
+Answer: Getting an introduction to machine learning is super exciting. I am very curious about it and think it will be very useful in my future. 
