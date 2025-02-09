@@ -1,0 +1,3 @@
+Q2: What field could data science be applied to? Give an Example.
+
+Answer: It can be used in sports to analyze the attributes of certain players or tactics of entire teams. For example, when teams want to trade players it is extremely important to use data science to quantify their value and analyze their numbers to see if they fit with the team.
